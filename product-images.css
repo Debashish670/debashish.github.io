@@ -16,7 +16,7 @@
 
 /* Cover banner */
 .hero {
-  background-image: linear-gradient(90deg, rgba(246, 240, 229, 0.93) 0%, rgba(246, 240, 229, 0.76) 40%, rgba(246, 240, 229, 0.08) 70%), url("images/banner.webp");
+  background-image: linear-gradient(90deg, rgba(246, 240, 229, 0.93) 0%, rgba(246, 240, 229, 0.76) 40%, rgba(246, 240, 229, 0.08) 70%), url("images/banner.webp?v=2");
   background-position: center;
   background-size: cover;
 }
