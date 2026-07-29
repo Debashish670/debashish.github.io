@@ -1,0 +1,27 @@
+.card-art {
+  overflow: hidden;
+}
+
+.card-art img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+.art-outside img {
+  object-fit: contain;
+  background: #fff;
+}
+
+/* Cover banner */
+.hero {
+  background-image: linear-gradient(90deg, rgba(246, 240, 229, 0.93) 0%, rgba(246, 240, 229, 0.76) 40%, rgba(246, 240, 229, 0.08) 70%), url("images/banner.webp");
+  background-position: center;
+  background-size: cover;
+}
+
+.hero .orb,
+.hero .hero-sun {
+  display: none;
+}
